@@ -26,10 +26,7 @@ public class Menu_1 extends AppCompatActivity {
         setContentView(R.layout.experience_categories);
         listView= (ListView) findViewById(R.id.listView); //리스트 뷰 객체 생성
         //adapter = new PackageAdapter();
-        //adapter.addItems(new PackageItem("같이가용","졸라리재밌는여행",100000, 0x7f060001 ));
-        //adapter.addItems(new PackageItem("같이가2용","졸라리재밌는여행",100000, R.drawable.b ));
         //listView.setAdapter(adapter);
-
         //listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
         //    @Override
         //    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
